@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Training", "SSIS_Training\SSIS_Training.dtproj", "{65DA0A8D-E7FB-4DA9-861E-18DA8D79F6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DA0A8D-E7FB-4DA9-861E-18DA8D79F6F4}.Development|Default.ActiveCfg = Development
+		{65DA0A8D-E7FB-4DA9-861E-18DA8D79F6F4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
